@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "7e28e8e6fb928872",
+        "id": "f992744802186852",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Problems/577. Employee Bonus.md",
+            "file": "Problems/1741. Find Total Time Spent by Each Employee.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Problems/577. Employee Bonus.md",
+                "file": "Problems/1741. Find Total Time Spent by Each Employee.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,14 +87,14 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7e28e8e6fb928872",
+  "active": "f992744802186852",
   "lastOpenFiles": [
-    "Problems/577. Employee Bonus.md",
     "Problems/1873. Calculate Special Bonus.md",
-    "Problems/584. Find Customer Referee.md",
-    "Problems/1731. The Number of Employees Which Report to Each Employee.md",
-    "Problems/1741. Find Total Time Spent by Each Employee.md",
     "Problems/595. Big Countries.md",
+    "Problems/1741. Find Total Time Spent by Each Employee.md",
+    "Problems/1731. The Number of Employees Which Report to Each Employee.md",
+    "Problems/584. Find Customer Referee.md",
+    "Problems/577. Employee Bonus.md",
     "README.md"
   ]
 }
